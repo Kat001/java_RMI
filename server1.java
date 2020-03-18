@@ -1,3 +1,6 @@
+//Server for Binding the objects or object Registration
+
+
 import java.rmi.*;
 
 public class server1

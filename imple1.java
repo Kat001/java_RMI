@@ -1,3 +1,7 @@
+
+//Implementation of Remote Interface of simple calculator
+
+
 import java.rmi.server.*;
 
 public class imple1 extends UnicastRemoteObject implements Inter1

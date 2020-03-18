@@ -1,3 +1,5 @@
+//Client program for imlementing the RMI client side 
+
 import java.rmi.*;
 
 public class client1

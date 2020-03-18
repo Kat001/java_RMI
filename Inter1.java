@@ -1,3 +1,6 @@
+
+//Remote Interface for simple calculator
+
 import java.rmi.Remote;
 public interface Inter1 extends Remote
   {
